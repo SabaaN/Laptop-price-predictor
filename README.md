@@ -1,4 +1,4 @@
-# Laptop price prediction 
+# Laptop price prediction web
 
 This project focuses on developing a machine learning model for predicting laptop prices based on various features like SSD, RAM, processor, etc. By leveraging machine learning algorithms, this project aims to provide accurate price estimates for laptops, assisting users in making informed purchasing decisions.
 The dataset used for training and evaluating the laptop price prediction model consists of laptop specifications and their corresponding prices. The dataset is preprocessed to handle missing values, normalize features, and prepare it for training the machine learning model.
